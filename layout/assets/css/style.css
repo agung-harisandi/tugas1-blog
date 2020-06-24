@@ -1,0 +1,220 @@
+
+
+.container {
+	background: blue;
+	width: 1200px;
+	margin: auto;
+	padding: 10px;
+	border: 1px solid white;
+	background-color: white;
+	font-family: georgia;
+}
+
+.kepala {
+
+}
+
+body {
+	text-align: center;
+}
+
+
+
+td {
+	text-align: left;
+}
+
+th {
+	text-align: center;
+}
+
+h1 {
+	margin: auto;
+	color: yellow;
+	margin-bottom: 10px;
+	font-size: 30px;
+	margin-top: 20px;
+	font-family: georgia;
+}
+
+h2 {
+	margin: auto;
+	color: #F0E68C;
+	margin-bottom: 10px;
+	font-size: 30px;
+	font-family: georgia;
+}
+
+.menu  {
+	
+	padding: 10px;
+	background-color: #BDB76B;
+	color: white;
+	text-decoration: none;
+	top: 0px;
+	position: relative;
+	margin-bottom: 20px;
+	font-family: georgia;
+	text-align: left;
+}
+
+.menu a {
+	padding: 15px;
+	color:white;
+	text-decoration: none;
+}
+.menu a:hover {
+	background-color: white ;
+	color: pink;
+
+}
+
+
+.akun{
+	position: absolute;
+	top: 0px;
+	right: 80px;
+
+}
+.logout{
+	position: absolute;
+	top: 0px;
+	right: 10px;
+
+}
+
+
+.isi{
+	margin-left: 10px;
+	margin-bottom: 50px;
+
+}
+
+.user_input {
+	background-color: indianred;
+	color: white;
+	font-family: georgia;
+}
+
+
+table {
+	
+	font-size: 15px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: 1px solid none;
+	border-collapse: collapse;
+	box-sizing : border-box;
+	text-align: center;
+	align-self: center;
+	background-color: seashell;
+	font-family: georgia;
+}
+
+table th {
+	text-align: center;
+	border: 1px solid lightgray;
+	padding: 10px;
+	background-color: khaki;
+	color: #ffffff;
+	font-family: georgia;
+}
+
+table td {
+	border: 1px solid lightgray;
+	padding:10px;
+
+}
+
+
+
+.footer {
+
+	padding: 10px;
+	background-color: #BDB76B;
+	bottom: 0px;
+	color: white;
+	position: sticky;
+	font-family: calibri;
+}
+
+
+
+.tmbl {
+	background-color: salmon;
+	color: white;
+	font-family: georgia;
+}
+
+.tmbl_ker{
+	background-color: indianred;
+	color: white;
+	margin-left: 80px;
+	width: 100px;
+}
+
+
+.loginform  table {
+	background-color: lightgray;
+	position: relative;
+	margin: auto;
+	text-align: center;
+	width: 300px;
+	border: none;
+	border: 1px solid lightgray;
+}
+
+.login {
+	text-align: center;
+	background-color: salmon;
+	width: auto;
+}
+
+.formlogin_name {
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-top: 10px;
+}
+
+.formlogin_pass {
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-top: -10px;
+	margin-bottom: 5px;
+}
+
+
+.kotaklogin {
+	text-align: center;
+	width: 300px;
+	margin: 80px auto;
+	padding: 30px 20px;
+	background-color:  #FFFACD;
+}
+
+p {
+	font-family: Franklin Gothic Heavy;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 30px;
+	margin-bottom: 20px;
+	margin-top: 40px;
+	color: salmon;
+}
+
+.tombollogin{
+	background: #FFFACD;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+	margin-bottom: 40px;
+}
+
+

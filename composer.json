@@ -1,0 +1,19 @@
+{
+    "name": "agaksusah/tugas1-blog",
+    "description": "Tugas 1 Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "Agung",
+            "email": "agungharisandi2@gmail.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : {
+            "App\\" :"app/"
+        }
+    }
+}
